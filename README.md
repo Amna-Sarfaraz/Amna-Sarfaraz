@@ -13,6 +13,5 @@ Hi, I’m Amna Muhammad, a Software Engineering undergraduate at NED University 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amna-Sarfaraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Amna-Sarfaraz&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
